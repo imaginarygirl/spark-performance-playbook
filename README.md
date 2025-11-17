@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="spark_performance_promo_card.png" alt="Spark Performance Playbook" width="800">
-</p>
-
-
 # Spark Performance Playbook (Databricks) for Busy Engineers
 
 Practical, copy/paste-ready tips to speed up Spark jobs. 
 Focus: joins, skew/shuffle, Delta layout, Photon & AQE, and production-grade writes. 
 Aimed at busy data engineers who want wins fast.
+
+<p align="center">
+  <img src="spark_performance_promo_card.png" alt="Spark Performance Playbook" width="800">
+</p>
 
 ---
 
